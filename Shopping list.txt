@@ -6,3 +6,5 @@ oranges
 kiwi
 berries
 cereal
+cucumbers
+raddishes
